@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("b"
+ (filename . "~/go-work/src/github.com/tinfinite/saas-ms-im-async/async/async.go")
+ (front-context-string . "		if err = sendK")
+ (rear-context-string . "/ offlineAll 事件\n")
+ (position . 9223))
+("a"
+ (filename . "~/go-work/src/github.com/tinfinite/saas-ms-im-async/async/async.go")
+ (front-context-string . "	mapDoc := make(")
+ (rear-context-string . "createMessage\")\n")
+ (position . 11555))
+("async.go"
+ (filename . "~/go-work/src/github.com/tinfinite/saas-ms-im-async/async/async.go")
+ (front-context-string . "	mapDoc := make(")
+ (rear-context-string . "createMessage\")\n")
+ (position . 11555))
+)
